@@ -11,4 +11,7 @@
   <img width="800" src="https://user-images.githubusercontent.com/103136246/198544061-7db6fae5-5f50-4ff8-84f0-dce7062c05da.png">
 </p>
 
+**Suite Report**
+https://jewel.gemecosystem.com/#/autolytics/extent-report?s_run_id=GEMECO-API-PY_PROD_0A48030B-647B-444C-AD27-9871F6C91A6A
+
 

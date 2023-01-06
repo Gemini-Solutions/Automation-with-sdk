@@ -77,7 +77,7 @@ def fetchBridgeTokenSuccess():
         api = 'https://apis.gemecosystem.com/bridge/token'
         obj3.reporter.addRow("Bridge Token API", "To fetch To fetch bridge token from our database.", status.INFO,method='-')
         obj3.reporter.addRow("Get Bridge Token API", api, status.INFO,method='-')
-        res1 = requests.post("https://apis.gemecosystem.com/login", json = {"username":"arpit.mishra", "password": "263c66016009c2600783e167ef428c10"},verify=False)
+        res1 = requests.post("https://apis.gemecosystem.com/login", json = {"username":"user", "password": "263c66016009c2600783e167ef428c10"},verify=False)
 
         try:
             jwt = res1.json()["data"]["token"]
